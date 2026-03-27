@@ -102,3 +102,15 @@
 2025-05-23 16:30:19 - root - INFO - Log file mode: a
 2025-05-23 16:30:19 - root - INFO - Log backup count: 5
 2025-05-23 16:30:19 - root - INFO - Log max bytes: 5242880
+2025-11-17 19:11:58 - root - INFO - Log file: /home/jelle/code/hopsa/logs/hopsa.log
+2025-11-17 19:11:58 - root - INFO - Log file mode: a
+2025-11-17 19:11:58 - root - INFO - Log backup count: 5
+2025-11-17 19:11:58 - root - INFO - Log max bytes: 5242880
+2026-03-27 09:29:31 - root - INFO - Log file: /home/jelle/code/hopsa/logs/hopsa.log
+2026-03-27 09:29:31 - root - INFO - Log file mode: a
+2026-03-27 09:29:31 - root - INFO - Log backup count: 5
+2026-03-27 09:29:31 - root - INFO - Log max bytes: 5242880
+2026-03-27 09:34:40 - root - INFO - Log file: /home/jelle/code/hopsa/logs/hopsa.log
+2026-03-27 09:34:40 - root - INFO - Log file mode: a
+2026-03-27 09:34:40 - root - INFO - Log backup count: 5
+2026-03-27 09:34:40 - root - INFO - Log max bytes: 5242880
